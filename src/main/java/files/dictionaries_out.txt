@@ -1,0 +1,7 @@
+apple        qua tao     
+banana       qua chuoi   
+bread        banh mi     
+father       cha         
+hello        xin chào    
+kiwi         qua kiwi    
+mother       mẹ          

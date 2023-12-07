@@ -1,0 +1,100 @@
+airplane,máy bay
+beach,bãi biển
+bicycle,xe đạp
+blossom,nở hoa
+book,sách
+bread,banh mì
+camera,máy ảnh
+car,ô tô
+celebration,lễ kỷ niệm
+chair,ghế
+challenge,thách thức
+chocolate,sô cô la
+clock,đồng hồ
+cloud,mây
+coffee,cà phê
+compassion,lòng nhân ái
+computer,máy tính
+courage,lòng can đảm
+daddy,cha
+discovery,khám phá
+door,cửa
+elegance,thanh lịch
+elephant,con voi
+eternity,vĩnh cửu
+exploration,khám phá
+family,gia đình
+father,cha
+flower,hoa
+freedom,tự do
+friend,bạn bè
+garden,vườn
+gratitude,lòng biết ơn
+happiness,hạnh phúc
+hat,mũ
+harvest,mùa gặt
+hello,xin chào
+hope,hy vọng
+idea,ý tưởng
+inspiration,nguồn cảm hứng
+journey,hành trình
+justice,công bằng
+key,chìa khóa
+kindness,lòng tốt
+kiwi,quả kiwi
+language,ngôn ngữ
+laptop,máy tính xách tay
+laughter,tiếng cười
+library,thư viện
+love,tình yêu
+map,bản đồ
+melody,giai điệu
+memory,ký ức
+miracle,phép màu
+moon,tháng
+mountain,núi
+movie,phim
+mystery,bí ẩn
+nobility,quý tộc
+ocean,đại dương
+orange,quả cam
+paradise,thiên đàng
+passion,đam mê
+patience,lòng kiên nhẫn
+pencil,bút chì
+rainbow,cầu vồng
+reflection,suý ngẫm
+resilience,sự kiên trì
+restaurant,nhà hàng
+resurrection,sự hồi sinh
+river,sông
+sanctuary,nơi thờ
+school,trường học
+science,khoa học
+search,tìm kiếm
+serenity,thanh thản
+sincerity,lòng chân thành
+smile,nụ cười
+star,ngôi sao
+starfish,sao biển
+study,học
+success,thành công
+sunset,hoàng hôn
+surprise,sự ngạc nhiên
+survival,sự sống sót
+sweetness,vị ngọt
+teach,giảng dạy
+television,tivi
+thanksgiving,lễ tạ ơn
+tranquility,bình yên
+train,điện tàu
+travel,du lịch
+umbrella,ô
+understanding,hiểu biết
+unity,sự đoàn kết
+victory,chiến thắng
+wisdom,sự khôn ngoan
+wonder,kì diệu
+word,từ
+world,thế giới
+youth,tuổi trẻ
